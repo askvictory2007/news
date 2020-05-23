@@ -1,13 +1,10 @@
- {
-    "home": [
-    {
-        "id": 1,
-        "poster":"https://m.media-amazon.com/images/M/MV5BN2M1MjM0NTUtODlhZS00MWEwLWE3ZWEtZmMzOTNlMmM1MTYyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY1200_CR113,0,630,1200_AL_.jpg",
-        "list1":"https://m.media-amazon.com/images/M/MV5BN2M1MjM0NTUtODlhZS00MWEwLWE3ZWEtZmMzOTNlMmM1MTYyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY1200_CR113,0,630,1200_AL_.jpg",
-        "list2":"https://images-na.ssl-images-amazon.com/images/I/91GAl33xHbL._RI_.jpg",
-        "list3":"https://th.thgim.com/entertainment/movies/55rd5h/article30443533.ece/alternates/FREE_435/master",
-     "list4":"https://upload.wikimedia.org/wikipedia/en/4/4c/Love_Aaj_Kal_film_poster.jpg",
-     "list5":"https://i.pinimg.com/236x/c7/3a/98/c73a98efcdd2152102e72366e5ef29ca.jpg"
-    }
-     ]
- }
+{
+   "poster":"https://m.media-amazon.com/images/M/MV5BN2M1MjM0NTUtODlhZS00MWEwLWE3ZWEtZmMzOTNlMmM1MTYyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY1200_CR113,0,630,1200_AL_.jpg",
+  "home": [
+    { "id": "1", "list":"https://m.media-amazon.com/images/M/MV5BN2M1MjM0NTUtODlhZS00MWEwLWE3ZWEtZmMzOTNlMmM1MTYyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY1200_CR113,0,630,1200_AL_.jpg"},
+    { "id": "2", "list": "https://images-na.ssl-images-amazon.com/images/I/91GAl33xHbL._RI_.jpg"},
+    { "id": "3", "list": "https://th.thgim.com/entertainment/movies/55rd5h/article30443533.ece/alternates/FREE_435/master
+    { "id": "4", "list": "https://upload.wikimedia.org/wikipedia/en/4/4c/Love_Aaj_Kal_film_poster.jpg"},
+    { "id": "5", "list": "https://i.pinimg.com/236x/c7/3a/98/c73a98efcdd2152102e72366e5ef29ca.jpg" }
+  ]
+}
