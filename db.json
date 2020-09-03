@@ -28,9 +28,9 @@
      "release":"14-February-2020",
      "url":"https://firebasestorage.googleapis.com/v0/b/rest-ebede.appspot.com/o/Love%20Aaj%20Kal%20-%20Official%20Trailer%20-%20Kartik%2C%20Sara%2C%20Randeep%2C%20Arushi%20-%20Imtiaz%20Ali%20-%20Dinesh%20Vijan%20-%2014%20Feb.mp4?alt=media&token=f4e18a94-353a-4bbe-ac72-e56f8796d821"
     },
-    { "id": "5",
-     "email": "",
-     "password": ""
+    {
+     "emailAddress": "",
+     "passWord": ""
     }
   ]
 }
