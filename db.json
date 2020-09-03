@@ -28,12 +28,9 @@
      "release":"14-February-2020",
      "url":"https://firebasestorage.googleapis.com/v0/b/rest-ebede.appspot.com/o/Love%20Aaj%20Kal%20-%20Official%20Trailer%20-%20Kartik%2C%20Sara%2C%20Randeep%2C%20Arushi%20-%20Imtiaz%20Ali%20-%20Dinesh%20Vijan%20-%2014%20Feb.mp4?alt=media&token=f4e18a94-353a-4bbe-ac72-e56f8796d821"
     },
-    { "id": "5", 
-     "list": "https://i.pinimg.com/236x/c7/3a/98/c73a98efcdd2152102e72366e5ef29ca.jpg",
-      "title":"Ala Vaikunthapurramloo",
-     "description":"Bantu grows up being constantly subjected to his father's scorn. However, when he learns of his real parentage, he decides to carve a place for himself within the family he truly belongs to.",
-     "release":"12-January-2020",
-     "url":"https://firebasestorage.googleapis.com/v0/b/rest-ebede.appspot.com/o/Ala%20Vaikunthapurramuloo%20Theatrical%20Trailer%20-%20Allu%20Arjun%2C%20Pooja%20Hegde%20-%20Trivikram%20-%20Thaman%20S.mp4?alt=media&token=7e5d6c64-2268-4f3e-a251-e909a023e483"
+    { "id": "5",
+     "email": "",
+     "password": ""
     }
   ]
 }
