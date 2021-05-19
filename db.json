@@ -1,9 +1,9 @@
 {
-  "user": [
+  "user": 
     {
       "id": "1", 
      "email":"shasha@thinkbig.com",
      "password":"shasha"
     }
-  ]
+  
 }
